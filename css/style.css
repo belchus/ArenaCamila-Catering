@@ -220,7 +220,7 @@ p{
 
 
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     .op1{
         background-image:linear-gradient(rgb(212, 194, 194),rgb(92, 22, 22));
         width: 300px;
@@ -279,7 +279,7 @@ p{
         background-image:linear-gradient( to left,rgb(121, 67, 67),rgb(87, 80, 80));
         width: 330px;
         height: 9500px;
-        margin: 30px;
+        margin: 20px;
         padding: 60px 100px 100px;
         border-radius: 10px;
         border: 8px solid black;
@@ -298,7 +298,8 @@ p{
 
      .carousel-inner{
          height: 400px;
-         width: 340px;
+         width: 310px;
          margin: 10px;
+         justify-content: center;
      }
 }
