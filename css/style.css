@@ -279,7 +279,7 @@ p{
         background-image:linear-gradient( to left,rgb(121, 67, 67),rgb(87, 80, 80));
         width: 330px;
         height: 9500px;
-        margin: 10px;
+        margin: 30px;
         padding: 60px 100px 100px;
         border-radius: 10px;
         border: 8px solid black;
@@ -294,5 +294,11 @@ p{
         margin: 10px;
         padding: 100px 100px 100px;
         text-align: center;
+     }
+
+     .carousel-inner{
+         height: 400px;
+         width: 340px;
+         margin: 10px;
      }
 }
